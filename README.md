@@ -1,0 +1,2 @@
+# maquetas
+Carpeta que consta de 15 ejercicios de HTML versión 5 y 4 ejemplos de maquetado, la carpeta también trae una carpeta secundaria con imágenes correspondientes a algunas paginas, cada uno de los códigos o paginas fueron validados por W3C, cada uno de los códigos fue endentado, también se agregaron comentarios al inicio de cada código, se agregó una carpeta mas con maquetado en css, se agregaron mas imágenes a las paginas, se agregaron encabezados, menú, pie de pagina y cuerpo.
